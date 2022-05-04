@@ -8,7 +8,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-enry/go-enry/v2 v2.5.2
-	github.com/karrick/godirwalk v1.15.6
+	github.com/karrick/godirwalk v1.17.0
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/spf13/cobra v1.0.0
