@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/augmentable-dev/lege v0.0.0-20191028004410-79cb985065a1
 	github.com/briandowns/spinner v1.11.1
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-enry/go-enry/v2 v2.5.2
 	github.com/karrick/godirwalk v1.15.6
